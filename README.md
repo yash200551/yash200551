@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...working various business analyst projects
 - 🌱 I’m currently learning ...GitHub
 - 💞️ I’m looking to collaborate on ...Business Analytics Projects
-- 📫 How to reach me ...By DM on Instragram 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...By DM on Instragram or Gmail 
+- 😄 Pronouns: ...He 
+- ⚡ Fun fact: ...Following Cricket 
 
 <!---
 yash200551/yash200551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
